@@ -54,7 +54,13 @@ const Navbar = () => {
           >
             {isOpen
               ? <X className="w-6 h-6 text-gray-700" /> //  Show X when menu is open
-              : <Menu className="w-6 h-6 text-gray-700" />} //  Show hamburger icon when menu is closed
+              : (
+                <>
+                  <Menu className="w-6 h-6 text-gray-700" />
+                  {/* Show hamburger icon when menu is closed */}
+                </>
+              )}
+
           </button>
         </div>
       </div>

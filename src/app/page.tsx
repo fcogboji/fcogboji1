@@ -1,6 +1,6 @@
 "use client"; //  Required in Next.js 13+ to use hooks like useCart on the client side
 
-import Link from "next/link"; //  Used for internal navigation (not used in this file but imported)
+
 import Image from "next/image"; //  Next.js optimized image component for better performance
 import { useCart } from "./context/cartcontext"; // Import custom cart hook from your context
 
