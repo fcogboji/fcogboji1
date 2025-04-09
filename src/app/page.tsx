@@ -19,7 +19,7 @@ const products: Product[] = [
     id: 1,
     image: "/iphone16.jpg",
     name: "iPhone 16",
-    price: 1199.99,
+    price: 119.99,
     description: "High-performance iPhone",
   },
   {
