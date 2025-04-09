@@ -23,7 +23,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
         {/*  Site logo/name linking to home */}
         <Link href="/" className="text-2xl font-bold text-gray-800">
-          ShopEase
+          ShopEasE
         </Link>
         
         {/*  Desktop navigation links (hidden on small screens) */}
