@@ -5,7 +5,7 @@ export default function About() {
     <div>
         <Link className="text-blue-500" href="/">Go to home</Link>
                 About
-                <p>Our friendly team’s skill-set combined with our vetted supply chain of proven expert professionals and consultants, has built an excellent reputation for providing our clients with first-time, on-time and on-budget project deliveries.
+                <p className="m-8">Our friendly team’s skill-set combined with our vetted supply chain of proven expert professionals and consultants, has built an excellent reputation for providing our clients with first-time, on-time and on-budget project deliveries.
           
                 We engage in clear, concise reporting processes throughout the life cycle of a project, from inception and issue of licenses, through the planning stage, design and installation to completion ready for occupancy.
                 
